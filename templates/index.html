@@ -1,0 +1,18 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+<main>
+    <div class="container">
+        <form method="POST" action="/runprogram">
+            <br>
+
+            {{ form.submit() }}
+        </form>
+
+    </div>
+</main>
+
+
+{% endblock %}
