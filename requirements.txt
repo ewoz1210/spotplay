@@ -31,7 +31,7 @@ idna==2.5
 ipython==5.1.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 KalturaApiClient==3.3.1
 kiwisolver==1.0.1
 lpthw.web==1.1
