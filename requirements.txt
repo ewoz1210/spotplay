@@ -11,7 +11,7 @@ cryptography==2.2.2
 cycler==0.10.0
 decorator==4.0.10
 dj-database-url==0.4.2
-Django==1.11
+Django==2.2.24
 Flask==0.12.1
 Flask-Babel==0.11.2
 Flask-Login==0.4.0
