@@ -38,7 +38,7 @@ lpthw.web==1.1
 MarkupSafe==1.0
 matplotlib==2.2.2
 node==0.9.22
-numpy==1.14.5
+numpy==1.22.0
 oauth2client==4.1.2
 odict==1.6.2
 packaging==16.8
